@@ -1,7 +1,7 @@
 export const works = [
   {
     id: "intern-tkj-2022",
-    title: "Intern Customer Service",
+    title: "Industrial Work Practice – Technical Computer and Networking",
     company: "Telkom Witel Sidoarjo",
     period: "Nov 2022 – Feb 2023",
     description: [
@@ -23,7 +23,7 @@ export const works = [
   },
   {
     id: "mobile-app-2025",
-    title: "Intern Mobile App Developer",
+    title: "On-Job-Training Mobile App Developer",
     company: "PT. United Tractors",
     period: "Mar 2025 – Jul 2025",
     description: [
