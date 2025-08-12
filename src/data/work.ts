@@ -33,4 +33,16 @@ export const works = [
       "Converted tracked GPS data into `.gpx` files for activity export.",
     ],
   },
+  {
+    id: "it-security-2025",
+    title: "Internship IT Security",
+    company: "Yayasan Karya Bakti United Tractors",
+    period: "Aug 2025 – Jan 2026",
+    description: [
+      "Assisted in IT security tasks, including vulnerability assessments and security audits.",
+      "Monitored network traffic and analyzed security incidents.",
+      "Collaborated with the IT team to implement security measures and best practices.",
+      "Gained hands-on experience in cybersecurity tools and techniques.",
+    ],
+  },
 ];
