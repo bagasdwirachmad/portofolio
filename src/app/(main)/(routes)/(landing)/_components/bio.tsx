@@ -23,6 +23,10 @@ const bioData: BioItem[] = [
     year: "2024",
     description: "Started diving into fullstack development",
   },
+  {
+    year: "2025",
+    description: "Started exploring IT Security",
+  },
 ];
 
 export default function Bio() {
